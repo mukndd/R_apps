@@ -21,7 +21,7 @@ Welcome to my portfolio of unique **Shiny Apps**, showcasing interactive tools a
 ## **3. Stock Market Simulator**
 
 - **Description:** Simulate and visualize stock market performance by fetching real-time data. Input a stock symbol and date range to see trends and analyze the market.
-- **Link:** [Stock Market Simulator](<paste_stock_market_link_here>)
+- **Link:** [Stock Market Simulator](<https://mukndd.shinyapps.io/stock_market/>)
 
 ---
 

@@ -5,6 +5,6 @@ account: mukndd
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 13656227
-bundleId:
+bundleId: 9596877
 url: https://mukndd.shinyapps.io/stock_market/
 version: 1
