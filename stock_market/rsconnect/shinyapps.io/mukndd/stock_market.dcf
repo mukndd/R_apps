@@ -1,0 +1,10 @@
+name: stock_market
+title:
+username: mukndd
+account: mukndd
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13656227
+bundleId:
+url: https://mukndd.shinyapps.io/stock_market/
+version: 1

@@ -1,0 +1,10 @@
+name: health
+title:
+username: mukndd
+account: mukndd
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13656196
+bundleId: 9596841
+url: https://mukndd.shinyapps.io/health/
+version: 1
