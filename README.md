@@ -52,6 +52,4 @@ Each app is hosted on ShinyApps.io. Simply click the links above to interact wit
 - **Educational and Entertaining:** Designed to be both fun and informative.
 
 ---
-
-Feel free to explore the apps and check out the code in this repository! Let me know if you have any feedback or suggestions.
 """

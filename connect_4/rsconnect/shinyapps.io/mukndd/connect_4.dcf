@@ -5,6 +5,6 @@ account: mukndd
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 13656187
-bundleId: 9596838
+bundleId: 9596905
 url: https://mukndd.shinyapps.io/connect_4/
 version: 1
